@@ -1,1 +1,1 @@
-# nazareth-membership
+# Founders & Coders Nazareth Membership
