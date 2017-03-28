@@ -1,15 +1,15 @@
-# Register of current members of Founders & Coders Nazareth C.I.C.
+# Register of current members of Founders & Coders Nazareth
 
 ## Founding members
- + Eoin McCarthy
- + Rebecca Radding
- + Dan Sofer
- + Noga Inbar
- + Justen Barget
- + Jack Murphy
- + Esraa Jbara
- + Shireen Zoaby
- + Matt Gregory
+ + Eoin McCarthy @des-des
+ + Rebecca Radding @rebeccaradding
+ + Dan Sofer @sofer
+ + Noga Inbar @nogainbar
+ + Justen Barget @jbarget
+ + Jack Murphy @JMurphyWeb
+ + Esraa Jbara @esraajb
+ + Shireen Zoaby @shiryz
+ + Matt Gregory @mantagen
 
 ## Graduates from Other Programmes
 
