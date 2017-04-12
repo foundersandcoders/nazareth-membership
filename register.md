@@ -14,4 +14,6 @@
 ## Graduates from Other Programmes
 
 ## FACN1
-  + Matt Davis @m4v15
+ + Lawson Beaty @philawsophizing
+ + Matt Davis @m4v15
+
