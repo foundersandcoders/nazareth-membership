@@ -14,4 +14,11 @@
 ## Graduates from Other Programmes
 
 ## FACN1
+
  + Hiba Akel @hibaakel
+ + Edgar Dewsbery @edgarfinn
+ + Reem Qais @RQ16
+ + Lawson Beaty @philawsophizing
+ + Matt Davis @m4v15
+ + Suha Edris @Suuuuha
+
