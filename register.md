@@ -15,7 +15,8 @@
 
 ## FACN1
 
-+ Edgar Dewsbery @edgarfinn
+ + Hiba Akel @hibaakel
+ + Edgar Dewsbery @edgarfinn
  + Reem Qais @RQ16
  + Lawson Beaty @philawsophizing
  + Matt Davis @m4v15
