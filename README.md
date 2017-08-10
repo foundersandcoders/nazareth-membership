@@ -8,6 +8,18 @@ A repo containing all information related to membership of Founders & Coders Naz
 - [**Code of Conduct**](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
 - [**Complaints Policy**](./complaints-policy.md)
 
+## Who is on the committee?
+ The current committee is made up of:
+ - Shireen [@shiryz](https://github.com/shiryz)
+ - Lee [@leemordechai](https://github.com/leemordechai)
+ - Matt King [@matthewdking](https://github.com/matthewdking)
+ - Vered [@veredrec](https://github.com/veredrec)
+ - Amy [@Wyrd00](https://github.com/wyrd00) 
+ 
+ If you are already a member and wish to be on the committee, please let one of us know at the next business meeting.
+ 
+  
+
 
 ## What is a member?
 There are two types of memberships. The first is [Voting Membership](#voting-membership) and the second is [Associate Membership](#associate-membership). 
