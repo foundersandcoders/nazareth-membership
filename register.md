@@ -24,3 +24,4 @@
  + Matt Lubel @mattlub
  + Goudi Bishara [@HilbertSpitzer](https://github.com/HilbertSpitzer)
  + Mohamed Omari @MohamedOmarii
+ + Mario Saliba [@Karyum](https://github.com/Karyum)
