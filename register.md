@@ -25,3 +25,8 @@
  + Goudi Bishara [@HilbertSpitzer](https://github.com/HilbertSpitzer)
  + Mohamed Omari @MohamedOmarii
  + Mario Saliba [@Karyum](https://github.com/Karyum)
+
+## FACN2
+
+ + Vered Rekanati @veredrec
+ + Matthew King [@matthewdking](https://github.com/matthewdking)
