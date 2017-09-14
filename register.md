@@ -27,4 +27,6 @@
 
 ## FACN2
 
-+ Matthew King [@matthewdking](https://github.com/matthewdking)
+ + Vered Rekanati @veredrec
+ + Matthew King [@matthewdking](https://github.com/matthewdking)
+
