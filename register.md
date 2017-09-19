@@ -11,7 +11,7 @@
  + Shireen Zoaby @shiryz
  + Matt Gregory @mantagen
 
-## Graduates from Other Programmes
+## Graduates from other programmes
 
 ## FACN1
 
