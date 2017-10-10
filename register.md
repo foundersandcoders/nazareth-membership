@@ -30,3 +30,4 @@
 
  + Vered Rekanati @veredrec
  + Matthew King [@matthewdking](https://github.com/matthewdking)
+ + Sajeda Zoabi [@sajedazoabi](https://github.com/sajedazoabi)
