@@ -30,3 +30,4 @@
 
  + Vered Rekanati @veredrec
  + Matthew King [@matthewdking](https://github.com/matthewdking)
+ + Stefano Sverino [@rinoma](https://github.com/rinoma)
