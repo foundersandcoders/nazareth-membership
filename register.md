@@ -30,3 +30,4 @@
 
  + Vered Rekanati @veredrec
  + Matthew King [@matthewdking](https://github.com/matthewdking)
+ + Katia Ashkar [@KatiaAsh](https://github.com/katiaash)
