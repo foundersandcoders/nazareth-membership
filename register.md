@@ -32,6 +32,7 @@
  + Matthew King [@matthewdking](https://github.com/matthewdking)
  + Katia Ashkar [@KatiaAsh](https://github.com/katiaash)
  + Sajeda Zoabi [@sajedazoabi](https://github.com/sajedazoabi)
+ + Stefano Sverino [@rinoma](https://github.com/rinoma)
 
 ## FCI
 
