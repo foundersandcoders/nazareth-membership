@@ -31,6 +31,7 @@
  + Vered Rekanati [@veredrec](https://github.com/veredrec)
  + Matthew King [@matthewdking](https://github.com/matthewdking)
  + Katia Ashkar [@KatiaAsh](https://github.com/katiaash)
+ + Sajeda Zoabi [@sajedazoabi](https://github.com/sajedazoabi)
 
 ## FCI
 
