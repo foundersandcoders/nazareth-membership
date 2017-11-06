@@ -5,7 +5,7 @@ A repo containing all information related to membership of Founders & Coders Naz
 
 ## Important resources
 
-- [**Code of Conduct**](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
+- [**Code of Conduct**](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
 - [**Complaints Policy**](./complaints-policy.md)
 
 ## Who is on the committee?
